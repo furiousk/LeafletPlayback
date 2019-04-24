@@ -1,0 +1,53 @@
+{
+  "_from": "git+https://github.com/hallahan/LeafletPlayback.git#master",
+  "_id": "LeafletPlayback@0.2.2",
+  "_inBundle": false,
+  "_integrity": "sha1-mgz+8ukDkh0BMzyBU6Zy9IyvlKk=",
+  "_location": "/LeafletPlayback",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "LeafletPlayback@git+https://github.com/hallahan/LeafletPlayback.git#master",
+    "name": "LeafletPlayback",
+    "escapedName": "LeafletPlayback",
+    "rawSpec": "git+https://github.com/hallahan/LeafletPlayback.git#master",
+    "saveSpec": "git+https://github.com/hallahan/LeafletPlayback.git#master",
+    "fetchSpec": "https://github.com/hallahan/LeafletPlayback.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/hallahan/LeafletPlayback.git#5fc4568173fe6a5d47ccbd07040a04fb2cf9d093",
+  "_spec": "LeafletPlayback@git+https://github.com/hallahan/LeafletPlayback.git#master",
+  "_where": "/Users/brunoalves/Projetos/web/itsgeo3",
+  "author": {
+    "name": "Nicholas Hallahan",
+    "email": "nick@theoutpost.io"
+  },
+  "bugs": {
+    "url": "https://github.com/hallahan/LeafletPlayback/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Marius Bieliauskas",
+      "email": "@recallfx"
+    }
+  ],
+  "deprecated": false,
+  "description": "This is a Leaflet plug-in that plays back points that have a time stamp synchronized to a clock.",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.9.1",
+    "grunt-write-bower-json": "0.0.1"
+  },
+  "homepage": "http://leafletplayback.theoutpost.io/",
+  "name": "LeafletPlayback",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hallahan/LeafletPlayback.git"
+  },
+  "version": "0.2.2"
+}
